@@ -1,0 +1,12 @@
+- Para poder criar a venv e ativar o python no vs code de forma certa:
+jsernt@MacBook-Pro-de-Jose src % pwd
+/Users/jsernt/Geral/projetos/Booking/src
+jsernt@MacBook-Pro-de-Jose src % cd ..
+jsernt@MacBook-Pro-de-Jose Booking % pwd
+/Users/jsernt/Geral/projetos/Booking
+jsernt@MacBook-Pro-de-Jose Booking % python3 -m venv .venv
+jsernt@MacBook-Pro-de-Jose Booking % source .venv/bin/activate
+(.venv) jsernt@MacBook-Pro-de-Jose Booking % (ativo)
+
+
+which python
