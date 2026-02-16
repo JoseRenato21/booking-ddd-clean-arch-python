@@ -40,3 +40,6 @@ if __name__ == "__main__":
     test_cpf_invalido()
     test_igualdade_e_hash()
     print("✅ todos os testes passaram")
+    
+    
+    
